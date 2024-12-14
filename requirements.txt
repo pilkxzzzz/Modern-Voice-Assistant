@@ -1,0 +1,8 @@
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+customtkinter==5.2.0
+pyautogui==0.9.54
+keyboard==0.13.5
+winshell==0.6
+pywin32==308
+cx_Freeze==6.15.9 
